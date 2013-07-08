@@ -10,3 +10,4 @@ pykoeln1_head
 ========
 
 Calls pykoeln1 from shell
+* TODO: add a warning if the file is mispelled/ is not found
