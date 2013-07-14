@@ -4,7 +4,8 @@ import time
 
 starttime = time.time()
 
-file = raw_input('What is the ped file you want to analyze?\n')
+file = raw_input('What is the ped file you want to analyze?\n') #comment this and comment out the following if you want to avoid the question
+#input = open(sys.argv[1], 'rU').read()  
 
 input = open(file, 'rU').read()
 
